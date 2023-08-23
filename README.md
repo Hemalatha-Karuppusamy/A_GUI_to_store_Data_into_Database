@@ -1,2 +1,2 @@
 # A_GUI_to_store_Data_into_Database
-GUI - To Store the Datum inputted to the Database
+Using Tkinter i have deployed a GUI To Store the Data inputted from the user to the Database.
